@@ -1,0 +1,58 @@
+
+  /* Estil general */
+body {
+    font-family: Arial, sans-serif;
+    margin: 32px;
+    color: #222;
+    background-color: #fff;
+    }
+    
+    /* Títol */
+    h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 28px;
+    letter-spacing: -0.5px;
+    }
+    
+    /* Taula */
+    table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 650px;
+    }
+    
+    /* Cel·les */
+    th, td {
+    border: 1px solid #ddd;
+    padding: 14px 16px;
+    text-align: left;
+    }
+    
+    /* Capçalera */
+    th {
+    background-color: #f5f5f5;
+    font-weight: 600;
+    }
+    
+      
+    /* Files alternes */
+    tbody tr:nth-child(even) {
+    background-color: #fafafa;
+    }
+    
+    /* Efecte en passar el ratolí */
+    tbody tr {
+    background-color: #f0f4f8;
+    }
+  /* Amplada de les columnes */
+    /* que la 1a columna ocupi el mínim*/
+    th:first-child,
+    td:first-child {
+        width: 1%;
+        white-space: nowrap;
+    }
+    th:last-child,
+    td:last-child {
+        width: auto;
+    }
