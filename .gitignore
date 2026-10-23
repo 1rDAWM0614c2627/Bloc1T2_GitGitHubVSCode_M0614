@@ -11,6 +11,7 @@ alumnesWebs/KMMusachsPovedano/dadesPersonalsKMMusachsPovedano.txt
 alumnesWebs/AinaraPS/dadesPersonalAinaraPS.txt
 alumnesWebs/AhmedTahiri/dadesPersonalsAhmedTahiri.txt
 alumnesWebs/DavidFabianSaraguro/dadesPersonalsDavidFabianSaraguro.txt
+<<<<<<< HEAD
 alumnesWebs/GilPS/dadesPersonalsGilPS.txt
 <<<<<<< HEAD
 dadesPersonalsArnauCA.txt
@@ -18,3 +19,6 @@ dadesPersonalsArnauCA.txt
 alumnesWebs/MartiMFS/dadesPersonalsMartiMFS.txt
 
 >>>>>>> a7641fd904c4f5c2df1b7a788c3d6f8ae974f30e
+=======
+alumnesWebs/EricBB/dadespersonalsEricBB.txt
+>>>>>>> featureEricbb
